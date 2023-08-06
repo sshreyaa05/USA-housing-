@@ -1,2 +1,3 @@
 # USA-housing-
-ensemble regression
+Predicting the USA housing prices using ensemble regression techniques can provide valuable insights into the real estate market and has various implications.
+
